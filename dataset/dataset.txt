@@ -1,0 +1,15 @@
+https://www.kaggle.com/datasets/uom190346a/food-ingredients-and-allergens /
+
+https://data.mendeley.com/datasets/9ygs9vhnpw/1 /
+
+https://catalog.data.gov/dataset/food-allergies
+
+https://www.kaggle.com/datasets/tirth5885/seafood-allergen /
+
+https://im2recipe.csail.mit.edu/
+
+https://www.kaggle.com/datasets/paultimothymooney/recipenlg / 
+
+https://github.com/josephrmartinez/recipe-dataset /
+
+https://farrp.unl.edu/resources/gi-fas/informall 
