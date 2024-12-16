@@ -1,2 +1,2 @@
 
-# Function to check allergens based on ingredients
+        recipe_name = df.loc[idx, 'Recipe Name']
