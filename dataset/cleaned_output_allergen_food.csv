@@ -1,0 +1,308 @@
+food_product,ingredient,prediction
+Almond Cookies,"Almonds, Sugar, Butter, Flour",Contains
+Chicken Noodle Soup,"Chicken broth, Salt",Contains
+Cheddar Cheese,"Cheese, Salt",Contains
+Ranch Dressing,"Buttermilk, Sugar, Vegetable oil, Garlic, herbs",Contains
+Caramel Popcorn,"Popcorn, Sugar, Butter, Salt",Contains
+Caesar Salad,"Romaine lettuce, Olive oil, Parmesan cheese",Contains
+Caesar Wrap,"Grilled chicken, Caesar dressing, Lettuce, Parmesan cheese",Contains
+Strawberry Smoothie,"Strawberries, Honey, Yogurt (milk, cultures)",Contains
+Cheese Pizza,"Cheese, Tomato sauce",Contains
+Margherita Pizza,"Cheese, Tomato sauce, basil",Contains
+Mashed Potatoes,"Potatoes, Butter, Salt, Pepper",Contains
+Greek Yogurt,"Yogurt (milk, cultures)",Contains
+Caesar Salad Wrap,"Grilled chicken, Caesar dressing, Lettuce, Parmesan cheese",Contains
+Caprese Salad,"Tomatoes, Olive oil, Mozzarella cheese, basil",Contains
+Berry Smoothie,"Mixed berries, Sugar, Yogurt (milk, cultures)",Contains
+Caesar Salad,"Romaine lettuce, Olive oil, Caesar dressing",Contains
+Berry Parfait,"Mixed berries, Sugar, Yogurt (milk, cultures), Granola",Contains
+Chicken Alfredo,"Chicken, Butter, Cream, Parmesan cheese",Contains
+Pesto Pizza,"Pesto sauce, Mozzarella cheese, basil",Contains
+Beef Stroganoff,"Beef, Sour cream, Mushroom, onion",Contains
+Banana Smoothie,"Bananas, Honey, Yogurt (milk, cultures)",Contains
+Watermelon Salad,"Watermelon, Feta cheese, mint",Contains
+Chicken Parmesan,"Chicken, Bread crumbs, Parmesan cheese, Marinara sauce",Contains
+Mango Lassi,"Mango, Sugar, Yogurt (milk, cultures), Cardamom",Contains
+Greek Salad,"Cucumbers, Olive oil, Feta cheese, olives",Contains
+Butternut Squash Soup,"Butternut squash, Butter, Vegetable broth",Contains
+Margherita Pasta,"Pasta, Olive oil, Fresh tomatoes, mozzarella",Contains
+Greek Gyro Wrap,"Lamb, Tzatziki sauce, tomatoes, onions",Contains
+Spinach and Feta Stuffed Chicken,"Chicken, Olive oil, Spinach, feta cheese",Contains
+Chicken Fettuccine Alfredo,"Chicken, Butter, Cream, Parmesan cheese",Contains
+Caprese Sandwich,"Tomatoes, Olive oil, Mozzarella cheese, basil",Contains
+Mushroom Risotto,"Mushrooms, Butter, Arborio rice, Parmesan cheese",Contains
+Greek Yogurt Parfait,"Greek yogurt, Honey, Granola, mixed berries",Contains
+Eggplant Parmesan,"Eggplant, Olive oil, Marinara sauce, cheese",Contains
+Banana Pudding,"Bananas, Sugar, Milk, Vanilla pudding mix, cookies",Contains
+Margherita Pizza,"Pizza dough, Olive oil, Mozzarella cheese, tomatoes, basil",Contains
+Chicken Caesar Wrap,"Chicken, Caesar dressing, Romaine lettuce, Parmesan cheese",Contains
+Greek Spanakopita,"Spinach, Olive oil, Feta cheese, phyllo dough",Contains
+Mushroom Soup,"Mushrooms, Butter, Vegetable broth",Contains
+Greek Yogurt,"Yogurt (milk, cultures), Honey",Contains
+Spinach Artichoke Dip,"Spinach, Cream cheese, sour cream, Parmesan cheese, garlic",Contains
+Chocolate Mousse,"Chocolate, Sugar, Heavy cream, Vanilla extract",Contains
+Stuffed Portobello Mushrooms,"Portobello mushrooms, Cheese, breadcrumbs",Contains
+Tandoori Chicken,"Chicken, Yogurt, Tandoori spices",Contains
+Beef Stroganoff,"Beef, Sour cream, Mushrooms, onions",Contains
+Strawberry Smoothie,"Strawberries, Sugar, Yogurt, Milk",Contains
+Baked Garlic Parmesan Chicken,"Chicken, Butter, Parmesan cheese, garlic",Contains
+Mushroom and Goat Cheese Flatbread,"Mushrooms, Olive oil, Goat cheese, herbs",Contains
+Margherita Pasta,"Pasta, Olive oil, Mozzarella cheese, tomatoes, basil",Contains
+Pumpkin Soup,"Pumpkin, Butter, Nutmeg, cream",Contains
+Butternut Squash Soup,"Butternut squash, Butter, Nutmeg, cream",Contains
+Caprese Skewers,"Tomatoes, Olive oil, Mozzarella cheese, basil",Contains
+Chicken Piccata,"Chicken, Butter, Lemon, capers",Contains
+Berry Parfait,"Berries, Honey, Yogurt, Granola",Contains
+Stuffed Mushrooms,"Mushrooms, Cheese, breadcrumbs",Contains
+Butter Chicken,"Chicken, Sugar, Butter, Tomato sauce, cream",Contains
+Palak Paneer,"Spinach, Ghee, Paneer, spices",Contains
+Rogan Josh,"Lamb, Ghee, Yogurt, Kashmiri red chili",Contains
+Paneer Tikka,"Paneer, Oil, Tikka masala, spices",Contains
+Dal Makhani,"Lentils, Ghee, Cream, spices",Contains
+Malai Kofta,"Cottage cheese, Ghee, Creamy tomato sauce",Contains
+Chicken Tikka Masala,"Chicken, Sugar, Ghee, Tomato sauce, cream",Contains
+Gulab Jamun,"Milk solids, Sugar, Ghee, Cardamom syrup",Contains
+Chicken Korma,"Chicken, Ghee, Creamy sauce, spices",Contains
+Malai Chicken Tikka,"Chicken, Cream, Spices",Contains
+Dahi Vada,"Lentil dumplings, Yogurt, Tamarind chutney, spices",Contains
+Chicken Malai Tikka,"Chicken, Cream, Spices",Contains
+Matar Paneer,"Paneer, Ghee, Peas, spices",Contains
+Rasgulla,"Paneer, Sugar, Rose water, syrup",Contains
+Rabri,"Milk, Sugar, Ghee, Cardamom, nuts",Contains
+Kheer,"Rice, Sugar, Ghee, Cardamom, nuts",Contains
+Rasmalai,"Paneer, Sugar, Milk, Ghee, Cardamom, nuts",Contains
+Chicken Caesar Salad,"Chicken breast, Olive oil, Parmesan cheese",Contains
+Quiche Lorraine,"Bacon, Heavy cream, Cheese, eggs",Contains
+Chicken Tikka Masala,"Chicken, Ghee, Tikka masala sauce",Contains
+Sweet Potato Casserole,"Sweet potatoes, Brown sugar, Butter, Cinnamon, nutmeg",Contains
+Baked Brie,"Brie cheese, Herbs, nuts",Contains
+French Onion Soup,"Onions, Butter, Beef broth, cheese, bread",Contains
+Greek Gyro,"Lamb/Chicken, Tzatziki sauce, vegetables",Contains
+Omelette,"Eggs, Butter, Salt, pepper",Contains
+Egg Salad,"Eggs, Mayonnaise, Celery, onion",Contains
+Quiche,"Eggs, Cheese, Vegetables",Contains
+Egg Salad Sandwich,"Eggs, Mayonnaise, Celery, mustard",Contains
+Egg Fried Rice,"Eggs, Sesame oil, Soy sauce",Contains
+Fish Sticks,"Fish fillets, Vegetable oil, Salt",Contains
+Baked Salmon,"Salmon fillet, Olive oil, Lemon, herbs",Contains
+Teriyaki Salmon,"Salmon, Vegetable oil, Teriyaki sauce",Contains
+Baked Salmon,"Salmon, Olive oil, Lemon, herbs",Contains
+Lemon Dill Salmon,"Salmon, Olive oil, Lemon, dill",Contains
+Malabar Fish Curry,"Fish, Coconut oil, Tamarind, spices",Contains
+Baked Cod,"Cod, Butter, Lemon, herbs",Contains
+Tuna Sandwich,"Tuna, Mayonnaise, Salt, Pepper",Contains
+Tuna Salad,"Tuna, Mayonnaise, Celery, onion",Contains
+Sushi,"Fish (salmon, tuna), Rice vinegar, Sesame oil, Soy sauce",Contains
+Teriyaki Salmon,"Salmon fillet, Sugar, Soy sauce, Ginger, garlic",Contains
+Sushi Bowl,"Sushi rice, Soy sauce, Raw fish, vegetables",Contains
+Honey Soy Glazed Salmon,"Salmon, Honey, Soy sauce, Garlic, ginger",Contains
+Milk Chocolate,"Sugar, Cocoa butter, Milk powder, Vanilla extract",Contains
+Vanilla Ice Cream,"Milk, Sugar, Cream, Vanilla extract",Contains
+Vanilla Yogurt,"Yogurt (milk, cultures), Sugar, Vanilla extract",Contains
+Strawberry Yogurt,"Yogurt (milk, cultures), Sugar, Pectin",Contains
+Tomato Soup,"Tomatoes, Salt, Sugar",Does not contain
+Apple,Apples,Does not contain
+Orange Juice,"Oranges, Sugar",Does not contain
+Greek Salad,"Cucumber, Olive oil, Lemon juice",Does not contain
+Spaghetti Bolognese,"Ground beef, Sugar, Olive oil, Tomato sauce",Contains
+Honey Mustard Chicken,"Chicken breast, Honey, Mustard, Vegetable oil",Contains
+BBQ Ribs,"Pork ribs, Brown sugar, Vegetable oil, BBQ sauce",Contains
+Quinoa Salad,"Quinoa, Olive oil, Lemon juice, herbs",Does not contain
+Vegetable Stir-Fry,"Mixed vegetables, Vegetable oil, Soy sauce",Does not contain
+Beef Burger,"Ground beef, Vegetable oil, Salt, Pepper",Does not contain
+French Fries,"Potatoes, Vegetable oil, Salt",Does not contain
+Lemonade,"Lemon juice, Sugar, Water",Does not contain
+Gazpacho,"Tomatoes, Olive oil, Garlic, herbs",Does not contain
+Beef Tacos,"Ground beef, Vegetable oil, Taco seasoning",Does not contain
+Lentil Soup,"Lentils, Olive oil, Vegetables",Does not contain
+Chicken Curry,"Chicken, Vegetable oil, Curry powder",Does not contain
+Ratatouille,"Eggplant, Olive oil, Tomatoes",Does not contain
+Pesto Pasta,"Pasta, Olive oil, Basil, garlic",Does not contain
+Chicken Stir-Fry,"Chicken, Vegetable oil, Soy sauce",Does not contain
+Veggie Burger,"Mixed vegetables, Vegetable oil, Seasonings",Does not contain
+Vegetable Soup,"Mixed vegetables, Olive oil, Seasonings",Does not contain
+Spinach Salad,"Spinach, Olive oil, Balsamic vinegar",Does not contain
+Chicken Enchiladas,"Chicken, Vegetable oil, Enchilada sauce",Does not contain
+Minestrone Soup,"Vegetables, Olive oil, Tomato broth",Does not contain
+Salsa,"Tomatoes, Onion, cilantro",Does not contain
+Lemon Garlic Chicken,"Chicken, Olive oil, Lemon juice, garlic",Does not contain
+Pancetta Pasta,"Pasta, Pancetta, Garlic, herbs",Does not contain
+Chicken Teriyaki,"Chicken, Vegetable oil, Teriyaki sauce",Does not contain
+Spinach Stuffed Chicken,"Chicken, Olive oil, Spinach, garlic",Does not contain
+Coconut Curry,"Chicken, Coconut milk, Curry paste",Does not contain
+Apple Cider,"Apples, Sugar, Cinnamon",Does not contain
+Ratatouille,"Eggplant, Olive oil, Tomatoes, zucchini",Does not contain
+Avocado Toast,"Avocado, Olive oil, Salt, pepper",Does not contain
+Beef Stir-Fry,"Beef, Vegetable oil, Soy sauce",Does not contain
+Black Bean Soup,"Black beans, Olive oil, Vegetables",Does not contain
+Cucumber Salad,"Cucumber, Olive oil, Lemon juice, dill",Does not contain
+Fruit Salad,"Mixed fruits, Sugar, Lemon juice",Does not contain
+Sausage Pizza,"Sausage, Mozzarella cheese",Does not contain
+Chicken Fajitas,"Chicken, Vegetable oil, Fajita seasoning",Does not contain
+Mango Salsa,"Mango, Red onion, lime",Does not contain
+Lentil Curry,"Lentils, Coconut milk, Curry powder",Does not contain
+Green Smoothie,"Spinach, Honey, Avocado, Almond milk",Does not contain
+Stuffed Bell Peppers,"Bell peppers, Olive oil, Ground meat, rice",Does not contain
+Beef and Broccoli,"Beef, Vegetable oil, Soy sauce",Does not contain
+Cabbage Rolls,"Cabbage, Olive oil, Ground meat, rice",Does not contain
+Caramel Apple,"Apples, Caramel",Does not contain
+Sweet Potato Fries,"Sweet potatoes, Vegetable oil, Salt, paprika",Does not contain
+Beef Chili,"Ground beef, Chili powder",Does not contain
+Pesto Chicken,"Chicken, Pesto sauce",Does not contain
+Beef Burritos,"Ground beef, Vegetable oil, Taco seasoning",Does not contain
+Chicken Shawarma,"Chicken, Olive oil, Shawarma spices",Does not contain
+Stuffed Mushrooms,"Mushrooms, Garlic, herbs",Does not contain
+Zucchini Noodles,"Zucchini, Olive oil, Garlic, herbs",Does not contain
+Sweet and Sour Chicken,"Chicken, Sugar, Vegetable oil, Pineapple, bell peppers",Does not contain
+Beef Kabobs,"Beef, Olive oil, Seasonings",Does not contain
+Tomato Bruschetta,"Tomatoes, Olive oil, Garlic, basil",Does not contain
+Quinoa Stuffed Peppers,"Quinoa, Olive oil, Vegetables, spices",Does not contain
+Veggie Omelette,"Mixed vegetables, Olive oil, Salt, pepper",Does not contain
+Ratatouille,"Vegetables, Olive oil, Herbs, garlic",Does not contain
+Beef Tacos,"Beef, Vegetable oil, Taco seasoning",Does not contain
+Quinoa Salad,"Quinoa, Olive oil, Lemon juice, vegetables",Does not contain
+Buffalo Wings,"Chicken wings, Vegetable oil, Buffalo sauce",Does not contain
+Stuffed Cabbage Rolls,"Cabbage, Olive oil, Ground meat, rice",Does not contain
+Orange Chicken,"Chicken, Vegetable oil, Orange sauce",Does not contain
+Honey Mustard Chicken,"Chicken, Honey, Olive oil, Mustard, herbs",Does not contain
+Lentil Salad,"Lentils, Olive oil, Lemon juice, vegetables",Does not contain
+Cilantro Lime Chicken,"Chicken, Olive oil, Cilantro, lime",Does not contain
+Ratatouille Pizza,"Pizza dough, Olive oil, Ratatouille vegetables",Does not contain
+Chicken Curry,"Chicken, Coconut milk, Curry powder",Does not contain
+Pesto Pasta Salad,"Pasta, Pesto sauce, Tomatoes, vegetables",Does not contain
+Beef and Mushroom Stir-Fry,"Beef, Vegetable oil, Soy sauce",Does not contain
+Tofu Curry,"Tofu, Coconut milk, Curry paste",Does not contain
+Greek Moussaka,"Eggplant, Olive oil, Ground meat, potatoes",Does not contain
+Brussels Sprouts,"Brussels sprouts, Olive oil, Balsamic glaze",Does not contain
+Baked Chicken Wings,"Chicken wings, Olive oil, Seasonings",Does not contain
+Mango Coconut Popsicles,"Mango, Sugar, Coconut milk",Does not contain
+Ratatouille Pasta,"Pasta, Olive oil, Ratatouille vegetables",Does not contain
+Chicken Noodle Soup,"Chicken, Vegetable oil, Noodles, vegetables",Does not contain
+Mango Salsa,"Mango, Lime juice, cilantro",Does not contain
+Spinach Salad,"Spinach, Olive oil, Balsamic vinaigrette",Does not contain
+Caramelized Onions,"Onions, Sugar, Butter",Does not contain
+Strawberry Spinach Salad,"Spinach, Strawberries, vinaigrette",Does not contain
+Ratatouille Tart,"Vegetables, Olive oil, Puff pastry, herbs",Does not contain
+Honey Glazed Carrots,"Carrots, Honey, Butter",Does not contain
+Cucumber Salad,"Cucumbers, Olive oil, Vinegar, herbs",Does not contain
+Greek Lemon Potatoes,"Potatoes, Olive oil, Lemon juice, herbs",Does not contain
+Stuffed Tomatoes,"Tomatoes, Herbs, breadcrumbs",Does not contain
+Lemon Pepper Chicken,"Chicken, Olive oil, Lemon pepper seasoning",Does not contain
+Chicken Shawarma,"Chicken, Olive oil, Shawarma seasoning",Does not contain
+Lemon Herb Roasted Chicken,"Chicken, Olive oil, Lemon, herbs",Does not contain
+Greek Lemon Chicken,"Chicken, Olive oil, Lemon juice, herbs",Does not contain
+Roasted Brussels Sprouts,"Brussels sprouts, Olive oil, Balsamic glaze",Does not contain
+Beef Burritos,"Beef, Vegetable oil, Burrito seasoning",Does not contain
+Raspberry Spinach Salad,"Spinach, Raspberries, vinaigrette",Does not contain
+Chicken and Rice Soup,"Chicken, Vegetable oil, Rice, vegetables",Does not contain
+Vegetable Curry,"Mixed vegetables, Coconut milk, Curry paste",Does not contain
+Ratatouille,"Vegetables, Olive oil, Herbs",Does not contain
+Biryani,"Rice, Ghee, Biryani masala, spices",Does not contain
+Chole Bhature,"Chickpeas, Sugar, Ghee, Chole masala, spices",Does not contain
+Masala Dosa,"Rice, Oil, Potato masala, spices",Does not contain
+Samosa,"Potatoes, Ghee, Spices",Contains
+Aloo Gobi,"Potatoes, Oil, Cauliflower, spices",Does not contain
+Chicken Biryani,"Chicken, Ghee, Basmati rice, spices",Does not contain
+Vada Pav,"Potato, Oil, Pav bun, chutney",Does not contain
+Pani Puri,"Semolina, Tamarind, Spiced water, chutney",Does not contain
+Rajma Chawal,"Kidney beans, Ghee, Spices",Contains
+Chicken Curry,"Chicken, Oil, Curry spices",Does not contain
+Vegetable Biryani,"Mixed vegetables, Ghee, Basmati rice, spices",Does not contain
+Chana Masala,"Chickpeas, Oil, Masala spices",Does not contain
+Paniyaram,"Fermented batter, Oil, Mustard seeds, curry leaves",Does not contain
+Pav Bhaji,"Mixed vegetables, Butter, Pav bread, spices",Does not contain
+Hyderabadi Biryani,"Basmati rice, Ghee, Meat/vegetables, spices",Does not contain
+Dosa,"Rice, Oil, Potato masala, chutney",Does not contain
+Chole Kulche,"Chickpeas, Ghee, Kulcha bread, spices",Does not contain
+Gobi Manchurian,"Cauliflower, Oil, Manchurian sauce",Does not contain
+Mutton Biryani,"Mutton, Ghee, Basmati rice, spices",Does not contain
+Oatmeal,"Oats, Sugar, Milk, Cinnamon",Contains
+Chicken Satay,"Chicken, Peanut butter, Soy sauce",Contains
+Peanut Butter,"Peanuts, Sugar, Vegetable oil, Salt",Contains
+Chicken Satay,"Chicken, Peanut oil, Satay sauce, spices",Contains
+Pesto Chicken,"Chicken, Olive oil, Pesto sauce",Contains
+Zucchini Noodles with Pesto,"Zucchini, Olive oil, Pesto sauce",Contains
+Rice Pudding,"Rice, Sugar, Milk, Cinnamon, raisins",Contains
+Shrimp Scampi,"Shrimp, Butter, Garlic, lemon",Contains
+Shrimp Scampi Pasta,"Shrimp, Butter, Garlic, lemon",Contains
+Garlic Shrimp,"Shrimp, Olive oil, Garlic",Contains
+Lemon Garlic Shrimp,"Shrimp, Olive oil, Lemon juice, garlic",Contains
+Prawn Biryani,"Prawns, Ghee, Basmati rice, spices",Contains
+Lobster Bisque,"Lobster, Butter, Cream, brandy",Contains
+Caesar Shrimp Skewers,"Shrimp, Olive oil, Caesar dressing",Contains
+Prawn Curry,"Prawns, Coconut milk, Curry spices",Contains
+Lobster Roll,"Lobster, Mayonnaise, Celery, lemon juice",Contains
+Bacon-Wrapped Shrimp,"Shrimp, Bacon, Seasonings",Contains
+Shrimp Fried Rice,"Shrimp, Vegetable oil, Soy sauce",Contains
+Soy Milk,"Soybeans, Sugar, Emulsifiers",Contains
+Tofu Stir-Fry,"Tofu, Vegetable oil, Soy sauce",Contains
+Miso Soup,"Miso paste, Tofu, seaweed",Contains
+Tofu Scramble,"Tofu, Vegetable oil, Turmeric, spices",Contains
+Chicken Teriyaki,"Chicken, Soy sauce, Honey, ginger",Contains
+Teriyaki Beef,"Beef, Soy sauce, Teriyaki sauce, vegetables",Contains
+Sushi Rolls,"Sushi rice, Soy sauce, Nori (seaweed), fish",Contains
+Wheat Bread,"Wheat flour, Salt",Contains
+Zucchini Bread,"Zucchini, Sugar, Vegetable oil, Flour",Contains
+Chicken Noodle Casserole,"Chicken, Butter, Noodles, vegetables",Contains
+Onion Rings,"Onions, Vegetable oil, Flour",Contains
+Chicken Pot Pie,"Chicken, Butter, Vegetables, pastry",Contains
+Grilled Portobello Mushroom Burger,"Portobello mushrooms, Burger bun, vegetables",Contains
+Aloo Paratha,"Potatoes, Ghee, Wheat flour, spices",Contains
+Oatmeal Raisin Cookies,"Oats, Sugar, Butter, Flour",Contains
+Pancakes,"Flour, Sugar, Butter, Baking powder",Contains
+Carrot Cake,"Carrots, Sugar, Vegetable oil, Cinnamon",Contains
+Blueberry Muffins,"Blueberries, Sugar, Butter, Flour",Contains
+Chocolate Chip Cookies,"Flour, Sugar, Butter, Chocolate chips",Contains
+Mushroom Risotto,"Arborio rice, Butter, Mushroom",Contains
+Cinnamon Rolls,"Flour, Sugar, Butter, Cinnamon",Contains
+Pineapple Upside-Down Cake,"Pineapple, Sugar, Butter, Flour",Contains
+Apple Pie,"Apples, Sugar, Butter, Cinnamon",Contains
+Banana Bread,"Bananas, Sugar, Butter, Flour",Contains
+Vanilla Cupcakes,"Flour, Sugar, Butter, Vanilla extract",Contains
+Apple Crisp,"Apples, Sugar, Butter, Cinnamon",Contains
+Pasta Carbonara,"Pasta, Bacon, Egg, Parmesan cheese",Contains
+Blueberry Pancakes,"Flour, Sugar, Butter, Blueberries",Contains
+Lemon Bars,"Flour, Sugar, Butter, Lemon juice",Contains
+Pumpkin Pie,"Pumpkin, Sugar, Butter, Cinnamon, nutmeg",Contains
+Mixed Berry Pie,"Mixed berries, Sugar, Butter, Flour",Contains
+Garlic Bread,"Bread, Butter, Garlic",Contains
+Berry Cobbler,"Mixed berries, Sugar, Butter, Flour",Contains
+Baked Ziti,"Pasta, Cheese, Tomato sauce",Unknown
+Baked Ziti,"Pasta, Cheese, Tomato sauce",Contains
+Key Lime Pie,"Lime juice, Sugar, Butter, Graham cracker crust",Contains
+Lemon Poppy Seed Muffins,"Flour, Sugar, Butter, Lemon zest, poppy seeds",Contains
+Chicken Quesadilla,"Chicken, Butter, Cheese",Contains
+Pancake Stack,"Flour, Sugar, Butter, Maple syrup",Contains
+Strawberry Shortcake,"Strawberries, Sugar, Whipped cream, Shortcake",Contains
+Berry Crumble,"Mixed berries, Sugar, Butter, Oats, cinnamon",Contains
+Raspberry Cheesecake,"Cream cheese, Sugar, Butter, Graham cracker crust, raspberries",Contains
+Oatmeal Raisin Cookies,"Oats, Brown sugar, Butter, Raisins, cinnamon",Contains
+Apple Crisp,"Apples, Sugar, Butter, Cinnamon, oats",Contains
+Chicken Enchiladas,"Chicken, Enchilada sauce, Cheese, tortillas",Contains
+Caesar Salad Wrap,"Romaine lettuce, Caesar dressing, Parmesan cheese, croutons",Contains
+S'mores,"Graham crackers, Marshmallows, Chocolate",Contains
+Tiramisu,"Ladyfingers, Sugar, Mascarpone cheese, Coffee, cocoa",Contains
+Cinnamon Rolls,"Dough, Sugar, Butter, Cinnamon, icing",Contains
+Chicken Caesar Salad,"Chicken, Caesar dressing, Romaine lettuce, croutons",Contains
+Vegetable Lasagna,"Vegetables, Olive oil, Tomato sauce, cheese",Contains
+Chicken Alfredo Pizza,"Pizza dough, Chicken, Alfredo sauce",Contains
+Caesar Pasta Salad,"Pasta, Caesar dressing, Romaine lettuce, Parmesan cheese",Contains
+Baked Apple,"Apples, Sugar, Butter, Cinnamon, oats",Contains
+Apple Pie,"Apples, Sugar, Butter, Cinnamon, pastry",Contains
+Chicken Parmesan,"Chicken, Olive oil, Tomato sauce, cheese",Contains
+Pumpkin Pie,"Pumpkin, Sugar, Butter, Pumpkin spice, pastry",Contains
+Blueberry Muffins,"Flour, Sugar, Butter, Blueberries",Contains
+Sausage and Pepper Pizza,"Pizza dough, Sausage, bell peppers",Contains
+Beef Wellington,"Beef, Butter, Mushrooms, puff pastry",Contains
+Baked Ziti,"Pasta, Tomato sauce, cheese",Contains
+Jalebi,"Flour, Sugar, Ghee, Saffron syrup",Contains
+Butter Naan,"Flour, Butter",Contains
+Tiramisu,"Ladyfingers, Sugar, Mascarpone cheese, coffee liqueur, Cocoa powder",Contains
+Chocolate Cake,"Flour, Sugar, Butter, Cocoa powder",Contains
+Chocolate Chip Pancakes,"Flour, Sugar, Butter, Chocolate chips",Contains
+Lemon Bars,"Lemon juice, Sugar, Butter, Flour, eggs",Contains
+Pecan Pie,"Pecans, Sugar, Butter, Corn syrup",Contains
+Zucchini Bread,"Zucchini, Sugar, Butter, Cinnamon, nuts",Contains
+Banana Bread,"Bananas, Sugar, Butter, Cinnamon, nuts",Contains
+Hawaiian Pizza,"Pizza dough, Pineapple, ham",Contains
+Unknown,Unknown,Unknown
